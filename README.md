@@ -40,16 +40,16 @@ Web UI Visualization
 ## Application Screenshots
 
 ### 🏠 Home — Resume & JD Upload
-![Home UI](ui_home.png)
+![Home UI](screenshots/ui_home.png)
 
 ### 📊 AI Insights Dashboard — Skill Gap Analysis
-![Overview UI](ui_overview.png)
+![Overview UI](screenshots/ui_overview.png)
 
 ### 🗺️ Personalized Learning Roadmap
-![Roadmap UI](ui_roadmap.png)
+![Roadmap UI](screenshots/ui_roadmap.png)
 
 ### 💡 Resume Rewrite + Smart Suggestions
-![Suggestions UI](ui_suggestions.png)
+![Suggestions UI](screenshots/ui_suggestions.png)
 
 ---
 
