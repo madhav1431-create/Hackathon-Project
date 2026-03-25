@@ -19,13 +19,13 @@ This project addresses these challenges by generating data-driven adaptive learn
 ---
 
 ## Key Features
-- ✅ Intelligent Resume & Job Description parsing  
-- ✅ Rule-based NLP skill extraction engine  
-- ✅ Automated skill-gap identification  
-- ✅ Graph-based adaptive learning roadmap generation  
-- ✅ Explainable recommendations (Reasoning Trace)  
-- ✅ Functional web interface for document upload and visualization  
-- ✅ Personalized training pathway sequencing  
+- Intelligent Resume & Job Description parsing  
+- Rule-based NLP skill extraction engine  
+- Automated skill-gap identification  
+- Graph-based adaptive learning roadmap generation  
+- Explainable recommendations (Reasoning Trace)  
+- Functional web interface for document upload and visualization  
+- Personalized training pathway sequencing  
 
 ---
 
@@ -39,16 +39,16 @@ Web UI Visualization
 
 ## Application Screenshots
 
-### 🏠 Home — Resume & JD Upload
+### Home — Resume & JD Upload
 ![Home UI](ui_home.jpeg)
 
-### 📊 AI Insights Dashboard — Skill Gap Analysis
+### AI Insights Dashboard — Skill Gap Analysis
 ![Overview UI](ui_overview.jpeg)
 
-### 🗺️ Personalized Learning Roadmap
+### Personalized Learning Roadmap
 ![Roadmap UI](ui_roadmap.jpeg)
 
-### 💡 Resume Rewrite + Smart Suggestions
+### Resume Rewrite + Smart Suggestions
 ![Suggestions UI](ui_suggestion.jpeg)
 
 ---
@@ -89,16 +89,16 @@ If Python is missing, the roadmap automatically begins with Python before progre
 
 ## How to Run the Project:
 
-### 1️⃣ Clone Repository
+### 1️. Clone Repository
 
 git clone https://github.com/madhav1431-create/Hackathon-Project.git
 cd ai-adaptive-onboarding-engine
 
-### 2️⃣ Install Dependencies
+### 2️. Install Dependencies
 
 pip install -r requirements.txt
 
-### 3️⃣ Launch Application
+### 3️. Launch Application
 
 streamlit run app.py
 
@@ -124,12 +124,12 @@ Upload them via the web interface to generate a personalized roadmap.
 
 ## Demo Video:
 
- Add demo video link here
+ [demo video link](https://drive.google.com/file/d/16pKO1XFDauRgSN74SLSOvjfhAW0vEghU/view?usp=sharing)
 
 
 ## Technical Presentation
 
-Add presentation link here
+[presentation link](https://docs.google.com/presentation/d/1LkswmpwKmo2c7XoQUtaEgQ9AR__UBfTj/edit?usp=sharing&ouid=113179207849990772712&rtpof=true&sd=true)
 
 
 ## Future Improvements:
