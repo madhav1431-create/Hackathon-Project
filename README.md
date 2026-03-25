@@ -49,7 +49,7 @@ Web UI Visualization
 ![Roadmap UI](ui_roadmap.jpeg)
 
 ### 💡 Resume Rewrite + Smart Suggestions
-![Suggestions UI](ui_suggestions.jpeg)
+![Suggestions UI](ui_suggestion.jpeg)
 
 ---
 
