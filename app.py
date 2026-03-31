@@ -3,8 +3,6 @@ import streamlit as st
 
 st.set_page_config(page_title="AI Adaptive Onboarding Engine", layout="wide")
 
-# ---------------- TEAM NAME ----------------
-st.markdown("## Team NeuralForge")
 
 # ---------------- TITLE ----------------
 st.title("AI Adaptive Onboarding Engine")
